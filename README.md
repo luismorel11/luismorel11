@@ -3,6 +3,7 @@
 
 - <b>C# (.NET Desktop Applications)</b>
   - [Aplicacion de cifrado de archivos(criptografia)](https://github.com/luismorel11/Aplicacion-de-Cifrado)
+  - [Core y aplicacion de caja de un hospital](https://github.com/luismorel11/Core-y-aplicacion-de-caja-para-un-Hospital)
  
 - <b>Python</b>
   -
