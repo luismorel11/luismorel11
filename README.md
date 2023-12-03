@@ -6,7 +6,12 @@
   - [Core y aplicacion de caja de un hospital](https://github.com/luismorel11/Core-y-aplicacion-de-caja-para-un-Hospital)
  
 - <b>Python</b>
+
   -
+
+- <b>Bubble</b>
+
+  - http://tareasconbubble-70335.bubbleapps.io/version-test/ 
 
 <h2>📫 Certificaciones y estudios realizados</h2>
 
